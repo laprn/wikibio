@@ -1,0 +1,147 @@
+[
+    {
+        "name": "Pablo_Picasso",
+        "born": "1881-10-25",
+        "died": "1973-04-08"
+    },
+    {
+        "name": "Jorge_Luis_Borges",
+        "born": "1899-08-24",
+        "died": "1986-06-14"
+    },
+    {
+        "name": "Werner_Heisenberg",
+        "born": "1901-12-05",
+        "died": "1976-02-01"
+    },
+    {
+        "name": "Napoleon",
+        "born": "1769-08-15",
+        "died": "1821-05-05"
+    },
+    {
+        "name": "Albert_Camus",
+        "born": "1913-11-07",
+        "died": "1960-01-04"
+    },
+    {
+        "name": "Ernest_Hemingway",
+        "born": "1899-07-21",
+        "died": "1961-07-02"
+    },
+    {
+        "name": "William_Blake",
+        "born": "1757-11-28",
+        "died": "1827-08-12"
+    },
+    {
+        "name": "Ren\u00e9_Descartes",
+        "born": "1596-03-31",
+        "died": "1650-02-11"
+    },
+    {
+        "name": "Friedrich_Nietzsche",
+        "born": "1844-10-15",
+        "died": "1900-08-25"
+    },
+    {
+        "name": "Claude_L\u00e9vi-Strauss",
+        "born": "1908-11-28",
+        "died": "2009-10-30"
+    },
+    {
+        "name": "Isaac_Newton",
+        "born": "1643-01-04",
+        "died": "1727-03-31"
+    },
+    {
+        "name": "Immanuel_Kant",
+        "born": "1724-04-22",
+        "died": "1804-02-12"
+    },
+    {
+        "name": "Francis_Bacon",
+        "born": "1561-01-22",
+        "died": "1626-04-09"
+    },
+    {
+        "name": "Galileo_Galilei",
+        "born": "1564-02-15",
+        "died": "1642-01-08"
+    },
+    {
+        "name": "Tycho Brahe",
+        "born": "1546-12-14",
+        "died": "1601-10-24"
+    },
+    {
+        "name": "Johannes Kepler",
+        "born": "1571-12-27",
+        "died": "1630-11-15"
+    },
+    {
+        "name": "Nicolaus Copernicus",
+        "born": "1473-02-19",
+        "died": "1543-05-24"
+    },
+    {
+        "name": "Georg Wilhelm Friedrich Hegel",
+        "born": "1770-08-27",
+        "died": "1831-11-14"
+    },
+    {
+        "name": "William Shakespeare",
+        "born": "1564-04-26",
+        "died": "1616-04-23"
+    },
+    {
+        "name": "Leonardo da Vinci",
+        "born": "1452-04-15",
+        "died": "1519-05-02"
+    },
+    {
+        "name": "Raffaello Santi",
+        "born": "1483-04-06",
+        "died": "1520-04-06"
+    },
+    {
+        "name": "Michelangelo",
+        "born": "1475-03-06",
+        "died": "1564-02-18"
+    },
+    {
+        "name": "Leonardo da Vinci",
+        "born": "1452-04-15",
+        "died": "1519-05-02"
+    },
+    {
+        "name": "Raffaello Santi",
+        "born": "1483-04-06",
+        "died": "1520-04-06"
+    },
+    {
+        "name": "Dante Alighieri",
+        "born": "1265-01-01",
+        "died": "1321-09-14"
+    },
+    {
+        "name": "Immanuel_Kant",
+        "born": "1724-04-22",
+        "died": "1804-02-12"
+    },
+    {
+        "name": "David_Hume",
+        "born": "1711-05-07",
+        "died": "1776-08-25"
+    },
+    {
+        "name": "Raffaello_Santi",
+        "born": "1483-03-28",
+        "died": "1520-04-06"
+    },
+    {
+        "name": "George_Berkeley",
+        "born": "1685-03-12",
+        "died": "1753-01-14"
+    }
+]
