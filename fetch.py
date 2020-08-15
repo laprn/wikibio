@@ -1,5 +1,5 @@
 import requests
-import wikiparser as wp
+import wikipedia
 import json
 import re
 
